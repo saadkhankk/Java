@@ -8,7 +8,7 @@ public class Lab12 {
     public static void main(String args[]) {
 
         Lab12.print();
-        Lab12.print2("Jawad","Khan");
+        Lab12.print2("Jawad ","Khan");
 
     }
 
