@@ -19,5 +19,10 @@ public class Lab12 {
     public static void print2(String FirstName, String LastName) {
         System.out.println(FirstName+ " " + LastName);
     }
+
+    public static int add(int num1, int num2) {
+        int res1= num1+num2;
+        return res1;
+    }
 }
 
